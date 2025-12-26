@@ -2,3 +2,15 @@
 ---
 
 @import "base", "background", "header", "sidebar", "home", "post", "archive", "player";
+@import url("../fonts/Vazirmatn-font-face.css");
+
+* {
+  font-family: Vazirmatn, Tahoma, serif !important;
+}
+
+body,
+html,
+button,
+input {
+  font-family: Vazirmatn, Tahoma, serif !important;
+}
